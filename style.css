@@ -4,7 +4,10 @@ body {
 
 .game_main {
     text-align: center;
-    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70vw;
     margin: auto;
 }
 
